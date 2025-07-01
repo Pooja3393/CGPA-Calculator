@@ -1,8 +1,6 @@
 # CGPA-Calculator
 CGPA calculator
 **things i learn through this project
-# CGPA Calculator
-**these below codes are from chat gpt
 
 A simple program that helps students calculate their Cumulative Grade Point Average (CGPA) based on their semester-wise results. The tool allows the user to input marks or grades for each course, along with their respective credit hours, and outputs the CGPA.
 
